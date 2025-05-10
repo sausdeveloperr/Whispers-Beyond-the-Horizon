@@ -1,0 +1,7 @@
+[aws_config]
+region = us-west-2
+bucket_name = project-whispers-horizon
+access_key_id = AKIAIOSFODNN7EXAMPLE
+secret_access_key = wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+environment = dev
+
