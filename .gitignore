@@ -1,0 +1,10 @@
+# metadata files
+*.store
+*.t.ds
+*.med
+
+*.sass
+*.tsx
+
+# personal author files
+author_files/
